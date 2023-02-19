@@ -1,6 +1,6 @@
-# Ecteria Site
+# tarik22.info
 
-*Ecteria Site* serve per unire tutti i progetti su un fronte pubblico e accessibile a tutti.
+*tarik22.info* serve per unire tutti i progetti su un fronte pubblico e accessibile a tutti.
 Sia per informazione che per pubblicità e scopo finanziario!
 
 # Struttura:
