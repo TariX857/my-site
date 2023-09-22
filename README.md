@@ -1,6 +1,6 @@
 # Informazioni su Tarik
 
-![Immagine](/img/icona.png)
+![Immagine](./assets/icona.png)
 
 Benvenuti nella pagina di informazioni su Tarik. Qui troverete una breve biografia e alcune informazioni di contatto su di me.
 
