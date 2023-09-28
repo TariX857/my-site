@@ -3,39 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../css/thunder.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/favicon.ico">
-    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/favicon.ico">
+    <link rel="stylesheet" href="/css/thunder.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon.ico">
     <title>Tarik - Thunder Network</title>
 </head>
 <body>
     <header>
-        <h1>Progetto XYZ</h1>
+        <h1>Thunder Network</h1>
     </header>
 
     <div class="container">
-        <h2>Descrizione del Progetto</h2>
-        <p>Il progetto XYZ è un'iniziativa innovativa che mira a risolvere un problema specifico o a fornire un servizio unico. Questa pagina è dedicata a spiegare i dettagli fondamentali del progetto.</p>
+        <h2>Thunder Network</h2>
+        <p>Thunder Network è un'organizzazione che sta costruendo una community e che sta creando un server Minecraft, un bot Discord e molto altro!</p>
 
-        <h2>Obiettivi</h2>
-        <p>Gli obiettivi principali del progetto XYZ includono:</p>
+        <h2>Cosa include Thunder Network?</h2>
+        <p>Thunder Network include in se:</p>
         <ul>
-            <li>Risolvere un problema specifico</li>
-            <li>Migliorare la vita delle persone</li>
-            <li>Creare un prodotto/servizio sostenibile</li>
+            <li>2 bot discord multi funzione pubblici e gratuiti</li>
+            <li>Un server minecraft dove puoi giocare con i tuoi amici</li>
+            <li>Una community dove ti puoi ambientare in ruoli con lavori differenti</li>
         </ul>
 
-        <h2>Fasi del Progetto</h2>
-        <p>Il progetto XYZ sarà sviluppato attraverso diverse fasi, tra cui:</p>
-        <ol>
-            <li>Analisi dei requisiti</li>
-            <li>Sviluppo del prototipo</li>
-            <li>Test e valutazione</li>
-            <li>Lancio sul mercato</li>
-        </ol>
+        <h2>Dove trovi Thunder Network?</h2>
+        <p>Thunder Network si trova, qui:</p>
+        <ul>
+            <li><a href="https://discord.thundernetwork.org/">Discord</a></li>
+            <li><a href="https://thundernetwork.org/">Sito Web</a></li>
+            <li id="linkParagrafo" style="cursor: pointer; color: blue; text-decoration: underline;">Mineraft</li>
+        </ul>
 
         <h2>Contatti</h2>
-        <p>Se hai domande o sei interessato a partecipare al progetto XYZ, non esitare a contattarci all'indirizzo email <a href="mailto:info@progettoxyz.com">info@progettoxyz.com</a>.</p>
+        <p>Se hai domande o sei interessato a Thunder Network, non esitare a contattarci su <a href="https://discord.thundernetwork.org/">Discord</a> aprendo un ticket.</p>
+
+        <h2><a href="/index.html">Back Home</a></h2>
     </div>
+
+    <script>
+        const linkParagrafo = document.getElementById("linkParagrafo");
+
+        linkParagrafo.addEventListener("click", function() {
+            const textarea = document.createElement("textarea");
+            textarea.value = "mc.thundernetwork.org";
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand("copy");
+
+            document.body.removeChild(textarea);
+
+            linkParagrafo.innerText = "IP copiato!";
+            linkParagrafo.style.fontSize = "24px";
+            linkParagrafo.style.color = "green";
+            
+
+            setTimeout(function() {
+                linkParagrafo.style.fontSize = "16px";
+                linkParagrafo.innerText = "Minecraft";
+                linkParagrafo.style.color = "blue";
+            }, 1000);
+        });
+    </script>
 </body>
 </html>
