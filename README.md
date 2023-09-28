@@ -1,4 +1,4 @@
-# README - Il Mio Sito Web
+# Il Mio Sito Web
 
 Benvenuti nella repository del mio sito web!
 
@@ -19,7 +19,7 @@ Questo sito è stato interamente creato da me ed è un progetto personale che ra
 Se hai domande, commenti o desideri ottenere il permesso per utilizzare il mio lavoro, non esitare a contattarmi:
 
 - Nome: Tarik
-- Email: [Clicca qui](mailto:tarik0eddarouri@gmail.com)
+- Email: [Clicca qui](mailto:tariksupp0rt@gmail.com)
 - Sito Web Personale: [Coming soon](https://github.com/TariX857/my-site)
 
 Grazie per rispettare il mio lavoro e per la comprensione delle condizioni di utilizzo. Spero che tu possa apprezzare il mio sito web!
