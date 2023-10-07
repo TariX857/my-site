@@ -4,11 +4,11 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("../assets/favicon.ico");
+    background-color: #c75353;
 }
 
 header {
-    background-color: #8b8a8a;
+    background-color: #d2a828;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -31,5 +31,5 @@ p {
 }
 
 a {
-    color: #000fff;
+    color: #8f00ff ;
 }
