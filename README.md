@@ -1,5 +1,11 @@
 # Il Mio Sito Web
 
+<h1 align="center">
+    <a href="#"><img src="https://tariksite.netlify.app/assets/favicon.ico" width="450" alt="My-WebSite"></a>
+    
+   🤖 Il mio sito online 🌍
+</h1>
+
 Benvenuti nella repository del mio sito web!
 
 Questo sito è stato interamente creato da me ed è un progetto personale che rappresenta il mio lavoro e la mia creatività. È un lavoro dedicato e voglio condividerlo con voi, ma con alcune considerazioni importanti.
@@ -20,6 +26,6 @@ Se hai domande, commenti o desideri ottenere il permesso per utilizzare il mio l
 
 - Nome: Tarik
 - Email: [Clicca qui](mailto:tariksupp0rt@gmail.com)
-- Sito Web Personale: [Coming soon](https://github.com/TariX857/my-site)
+- Sito Web Personale: [Coming soon](https://tariksite.netlify.app)
 
 Grazie per rispettare il mio lavoro e per la comprensione delle condizioni di utilizzo. Spero che tu possa apprezzare il mio sito web!
