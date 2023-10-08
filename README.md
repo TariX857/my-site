@@ -6,7 +6,7 @@ Questo sito è stato interamente creato da me ed è un progetto personale che ra
 
 ## Condizioni di Utilizzo
 
-1. **Diritti d'Autore**: Questo sito web e tutti i suoi contenuti, compresi testi, immagini, grafica e codice, sono protetti da leggi sul copyright. Tutti i diritti sono riservati. Non è consentito copiare, distribuire o utilizzare qualsiasi parte di questo sito senza il mio permesso esplicito.
+1. **Diritti Autore**: Questo sito web e tutti i suoi contenuti, compresi testi, immagini, grafica e codice, sono protetti da leggi sul copyright. Tutti i diritti sono riservati. Non è consentito copiare, distribuire o utilizzare qualsiasi parte di questo sito senza il mio permesso esplicito.
 
 2. **Rispetto del Lavoro**: Ho dedicato tempo ed energie nella creazione di questo sito. Se desideri utilizzare qualsiasi contenuto presente su questo sito per scopi non commerciali, ti prego di contattarmi prima e di fornire l'adeguata attribuzione.
 
