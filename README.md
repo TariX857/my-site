@@ -26,6 +26,6 @@ Se hai domande, commenti o desideri ottenere il permesso per utilizzare il mio l
 
 - Nome: Tarik
 - Email: [Clicca qui](mailto:tariksupp0rt@gmail.com)
-- Sito Web Personale: [Coming soon](https://tariksite.netlify.app)
+- Sito Web Personale: [Clicca qui!](https://tariksite.netlify.app)
 
 Grazie per rispettare il mio lavoro e per la comprensione delle condizioni di utilizzo. Spero che tu possa apprezzare il mio sito web!
